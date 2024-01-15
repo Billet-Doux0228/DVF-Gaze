@@ -5,7 +5,7 @@ Leveraging the Far-eye Images for Dual-View Gaze Estimation.
 
 
 We propose a novel approach, DVF-Gaze, for dual-view gaze estimation. Different from single-view approaches that tend to utilize all available eye images, we find that leveraging the far-eye image from each view proves su perior to utilizing two eye images in the context of dual-view gaze estimation. This observation seems counter-intuitive since the far-eye often occupies fewer pixels than the close eye.
-![DVF-Gaze](images/network.png)
+![DVF-Gaze](Code/images/network.png)
 
 This code is developed on the repository https://github.com/yihuacheng/DVGaze, which is written by Yihua Cheng and Feng Lu. For more information about the baseline method please see their ICCV 2023 paper 'DVGaze: Dual-View Gaze Estimation'.
 
