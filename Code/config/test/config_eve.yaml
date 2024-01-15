@@ -1,0 +1,23 @@
+---
+test:
+
+    load:
+        begin_step: 10
+        end_step: 30
+        steps: 5
+
+    data: 
+        image: "/data/wyl_data/EVE/Image"
+        label_cam1: "/home/user/wyl/DVGaze-main/Label/EVE_origin/val/webcam_r.test"
+        label_cam2: "/home/user/wyl/DVGaze-main/Label/EVE_origin/val/webcam_l.test"
+        name: eve
+        header: False
+        isFolder: False
+    savename: "evaluation"
+
+    device: 0
+
+    reader: reader_eve
+
+# dropout = 0
+# dim_feed = 512
