@@ -29,5 +29,3 @@ where `config/train/xxx.yaml` indicates the config for training model.
 Please download the label file from <a href='https://drive.google.com/drive/folders/16yt3xjkQzR_hA5EMFWQhrL-s2f3A3MKb?usp=sharing'> Google Driver </a>. We are not authorized to distribute image files. 
 
 **All codes are beta version and we will keep updating this repositories.**
-
-Please send email to `22031212212@stu.edu.xidian.cn` if you have any questions.
